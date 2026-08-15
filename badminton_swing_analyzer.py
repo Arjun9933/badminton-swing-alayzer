@@ -180,12 +180,7 @@ if handedness == 'left':
             wrist_behind_ear = left_ear.x > left_wrist.x
 
             
-            if current_pose == pose2:
-                print("2")
-            elif current_pose == pose3:
-                print("3")
-            else:
-                print("none")
+        
 
 
 
@@ -213,8 +208,7 @@ if handedness == 'left':
                         
 
 
-            print(avg_shoulder_width_values)
-            print(shoulder_width)
+            
             
     #map point and lines onto the body
             right_shoulder_point = (int(right_shoulder.x * w), int(right_shoulder.y * h))
@@ -287,8 +281,12 @@ if handedness == 'left':
         print("you need a higher contact point")
 
 
-    print(elbow_height_check)
-    print(angle_2_list)
+    if elbow_farther_ear_horizontally_done == True and shoulders_rotated_done == True and pos_3_angle_check == True and angle_2_list.count("g") >= 2:
+            print("your form is looking good!")
+    
+
+
+
 
 
     cap.release()
@@ -464,14 +462,6 @@ elif handedness == 'right':
             elbow_farther_ear_horizontally = right_elbow.x > right_ear.x
             wrist_behind_ear = right_ear.x > right_wrist.x
 
-            
-            if current_pose == pose2:
-                print("2")
-            elif current_pose == pose3:
-                print("3")
-            else:
-                print("none")
-
 
 
     #pose2 checks
@@ -497,8 +487,7 @@ elif handedness == 'right':
                                 shoulders_rotated_done = True
                         
 
-            print(f"avg shoulder values are {avg_shoulder_width_values}")
-            print(f"current shoulder width is {shoulder_width}")
+            
 
 
             
@@ -572,10 +561,11 @@ elif handedness == 'right':
     if not pos_3_angle_check:
         print("you need a higher contact point")
 
+    if elbow_farther_ear_horizontally_done == True and shoulders_rotated_done == True and pos_3_angle_check == True:
+        print("your form is looking good!")
 
-    print(elbow_height_check)
-    print(angle_2_list)
 
+    
 
 
     cap.release()
