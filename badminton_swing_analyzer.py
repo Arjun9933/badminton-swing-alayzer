@@ -49,7 +49,7 @@ if handedness == 'left':
     shoulder_width_values = []
     hip_width_values = []
 
-    video = "C:/Users/Arjun/Desktop/cv/IMG_3110.mov"
+    video = "Put your video path here"
     cap = cv2.VideoCapture(video)
 
     while cap.isOpened():
@@ -299,7 +299,7 @@ elif handedness == 'right':
     print("Loading right-handed swing analyzer...")
         #base options
     base_options = mp.tasks.BaseOptions(model_asset_path = "pose_landmarker_full.task")
-    #choose options and running mdoe
+    #choose options and running mode
     options = mp.tasks.vision.PoseLandmarkerOptions(base_options = base_options, running_mode = mp.tasks.vision.RunningMode.VIDEO)
     #create detector
     detector = mp.tasks.vision.PoseLandmarker.create_from_options(options)
@@ -337,7 +337,7 @@ elif handedness == 'right':
     shoulder_width_values = []
     hip_width_values = []
 
-    video = "C:/Users/Arjun/Desktop/cv/IMG_3101.mov"
+    video = "put your video path here"
     cap = cv2.VideoCapture(video)
 
     while cap.isOpened():
