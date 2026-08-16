@@ -66,13 +66,26 @@ This script tracks a player's body mechanics during a badminton swing to provide
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
 
-To get a local copy up and running, follow these simple steps.
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_github_username/Badminton-Swing-Analyzer.git
+   ```
+2. Add video paths to the code
+   ```sh
+   <img width="401" height="48" alt="image" src="https://github.com/user-attachments/assets/2c5ad499-b4d6-4679-8571-1e1f60851920" />
 
-### Prerequisites
+   <img width="368" height="36" alt="image" src="https://github.com/user-attachments/assets/4fcf6770-e697-4727-b228-22a9a1118b42" />
 
-You will need Python installed on your computer. Install the required libraries using pip:
 
-```sh
-pip install opencv-python mediapipe numpy
+   ```
+3. Run properly
+   ```js
+   Choose "right" or "left" and recieve results
+   ```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
