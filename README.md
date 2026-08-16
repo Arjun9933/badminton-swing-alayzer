@@ -75,3 +75,61 @@ To get a local copy up and running, follow these simple steps.
 You will need Python installed on your computer. Install the required libraries using pip:
 ```sh
 pip install opencv-python mediapipe numpy
+Installation
+Download the MediaPipe Pose Landmarker model (pose_landmarker_full.task) from the official Google MediaPipe documentation.
+
+Clone the repo
+
+Bash
+git clone [https://github.com/your_github_username/Badminton-Swing-Analyzer.git](https://github.com/your_github_username/Badminton-Swing-Analyzer.git)
+Place the pose_landmarker_full.task file in the root folder of your cloned repository.
+
+Usage
+Open your terminal and navigate to the project directory.
+
+Run the script:
+
+Bash
+python badminton_swing_analyzer.py
+The terminal will prompt you to enter the path to your video file. (Pro tip: Drag and drop your video file into the terminal to automatically paste the path!)
+
+Type left or right when asked for your handedness.
+
+Watch the analysis! Once finished, the terminal will print out your form feedback.
+
+Roadmap
+[x] Add left/right handedness support
+
+[x] Implement dynamic user input for video paths
+
+[ ] Add live webcam feed support
+
+[ ] Create a graphical user interface (GUI)
+
+See the open issues for a full list of proposed features (and known issues).
+
+Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+Fork the Project
+
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+Contact
+Arjun Maddali - arjunmaddali1@gmail.com
+
+Project Link: https://github.com/your_github_username/Badminton-Swing-Analyzer
+
+Acknowledgments
+Google MediaPipe Documentation
+
+OpenCV Documentation
