@@ -74,9 +74,9 @@ This script tracks a player's body mechanics during a badminton swing to provide
    ```
 2. Add video paths to the code
    ```sh
-   <img width="401" height="48" alt="image" src="https://github.com/user-attachments/assets/2c5ad499-b4d6-4679-8571-1e1f60851920" />
+   <img width="368" height="36" alt="Image" src="https://github.com/user-attachments/assets/358fac4f-3a64-418c-bef9-d38f09871f56" />
 
-   <img width="368" height="36" alt="image" src="https://github.com/user-attachments/assets/4fcf6770-e697-4727-b228-22a9a1118b42" />
+   <img width="401" height="48" alt="Image" src="https://github.com/user-attachments/assets/0d68c3bd-0f83-4635-a289-b6c5aec569e7" />
 
 
    ```
