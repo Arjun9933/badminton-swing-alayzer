@@ -73,13 +73,12 @@ This script tracks a player's body mechanics during a badminton swing to provide
    git clone https://github.com/your_github_username/Badminton-Swing-Analyzer.git
    ```
 2. Add video paths to the code
-   ```sh
+
    <img width="368" height="36" alt="Image" src="https://github.com/user-attachments/assets/358fac4f-3a64-418c-bef9-d38f09871f56" />
 
    <img width="401" height="48" alt="Image" src="https://github.com/user-attachments/assets/0d68c3bd-0f83-4635-a289-b6c5aec569e7" />
 
 
-   ```
 3. Run properly
    ```js
    Choose "right" or "left" and recieve results
