@@ -1,28 +1,14 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/your_github_username/Badminton-Swing-Analyzer">
-    <!-- You can add a cool logo here later if you want! -->
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Badminton Swing Analyzer</h3>
+  <h1>🏸 Badminton Swing Analyzer</h1>
 
   <p align="center">
     A Python-based computer vision tool that uses OpenCV and Google's MediaPipe to analyze and improve your badminton swing form.
     <br />
-    <a href="https://github.com/your_github_username/Badminton-Swing-Analyzer"><strong>Explore the docs »</strong></a>
+    <a href="#usage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/your_github_username/Badminton-Swing-Analyzer/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -51,7 +37,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -59,9 +44,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<!-- You can add a screenshot of your digital skeleton working here! -->
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This script tracks a player's body mechanics during a badminton swing to provide instant feedback on their technique. It analyzes key biomechanical markers to determine if you are maximizing your power and reach.
 
@@ -76,10 +58,10 @@ This script tracks a player's body mechanics during a badminton swing to provide
 
 ### Built With
 
-* [![Python][Python.org]][Python-url]
-* [![OpenCV][OpenCV.org]][OpenCV-url]
-* [![MediaPipe][MediaPipe.dev]][MediaPipe-url]
-* [![NumPy][NumPy.org]][NumPy-url]
+* [Python](https://www.python.org/)
+* [OpenCV](https://opencv.org/)
+* [MediaPipe](https://developers.google.com/mediapipe)
+* [NumPy](https://numpy.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +73,5 @@ To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
 You will need Python installed on your computer. Install the required libraries using pip:
-* pip
-  ```sh
-  pip install opencv-python mediapipe numpy
+```sh
+pip install opencv-python mediapipe numpy
