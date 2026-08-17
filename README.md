@@ -13,8 +13,6 @@
   </p>
 </div>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -25,9 +23,6 @@ This script tracks a player's body mechanics during a badminton swing to provide
     <br />
   </p>
 </div>
-
-
-
 
 
 **Key Features:**
@@ -74,8 +69,6 @@ This script tracks a player's body mechanics during a badminton swing to provide
    ```
 
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -84,9 +77,6 @@ This script tracks a player's body mechanics during a badminton swing to provide
 - [ ] Implement grip checks
 - [ ] Create GUI for results
 - [ ] Website Creation
-
-
-
 
 
 
