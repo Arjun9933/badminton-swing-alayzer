@@ -43,7 +43,11 @@
 
 This script tracks a player's body mechanics during a badminton swing to provide instant feedback on their technique. It analyzes key biomechanical markers to determine if you are maximizing your power and reach.
 
-
+<br />
+    <br />
+    <br />
+  </p>
+</div>
 
 
 
@@ -56,7 +60,11 @@ This script tracks a player's body mechanics during a badminton swing to provide
 *   **Body Rotation Check:** Tracks shoulder and hip widths to verify you are rotating your body fully through the shot.
 *   **Visual Feedback:** Maps a digital skeleton directly onto your video, highlighting key joints with red dots and blue lines.
 
-
+<br />
+    <br />
+    <br />
+  </p>
+</div>
 
 ### Built With
 
@@ -65,7 +73,11 @@ This script tracks a player's body mechanics during a badminton swing to provide
 * [MediaPipe](https://developers.google.com/mediapipe)
 * [NumPy](https://numpy.org/)
 
-
+<br />
+    <br />
+    <br />
+  </p>
+</div>
 
 <!-- GETTING STARTED -->
 
@@ -103,7 +115,11 @@ This script tracks a player's body mechanics during a badminton swing to provide
 - [ ] Create GUI for results
 - [ ] Website Creation
 
-
+<br />
+    <br />
+    <br />
+  </p>
+</div>
 
 
 <!-- CONTACT -->
