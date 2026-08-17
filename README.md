@@ -6,14 +6,10 @@
   <h1>🏸 Badminton Swing Analyzer</h1>
 
   <p align="center">
-    A Python-based computer vision tool that uses OpenCV and Google's MediaPipe to analyze and improve your badminton swing form.
-    <br />
-    <a href="#usage"><strong>Explore the docs »</strong></a>
+    A Python based computer vision tool that uses OpenCV and Google's MediaPipe to analyze and improve your badminton swing form.
     <br />
     <br />
-    <a href="[https://github.com/your_github_username/Badminton-Swing-Analyzer/issues/new?labels=bug&template=bug-report---.md](https://github.com/your_github_username/Badminton-Swing-Analyzer/issues/new?labels=bug&template=bug-report---.md)">Report Bug</a>
-    &middot;
-    <a href="[https://github.com/your_github_username/Badminton-Swing-Analyzer/issues/new?labels=enhancement&template=feature-request---.md](https://github.com/your_github_username/Badminton-Swing-Analyzer/issues/new?labels=enhancement&template=feature-request---.md)">Request Feature</a>
+    <br />
   </p>
 </div>
 
@@ -74,7 +70,7 @@ This script tracks a player's body mechanics during a badminton swing to provide
    ```
 2. Add video paths to the code
 
-   <img width="368" height="36" alt="Image" src="https://github.com/user-attachments/assets/358fac4f-3a64-418c-bef9-d38f09871f56" />
+   <img width="401" height="48" alt="Image" src="https://github.com/user-attachments/assets/358fac4f-3a64-418c-bef9-d38f09871f56" />
 
    <img width="401" height="48" alt="Image" src="https://github.com/user-attachments/assets/0d68c3bd-0f83-4635-a289-b6c5aec569e7" />
 
@@ -87,4 +83,29 @@ This script tracks a player's body mechanics during a badminton swing to provide
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Added Left/Right handness support
+- [ ] Automatic video pathing addition
+- [ ] Implement grip checks
+- [ ] Create GUI for results
+- [ ] Website Creation
+
+
+
+
+<!-- CONTACT -->
+
+
+Any questions/concerns/suggestions(very appreciated) contact: ---> arjunmaddali1@gmail.com
+
+Project Link: https://github.com/your_github_username/Badminton-Swing-Analyzer
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
