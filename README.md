@@ -76,11 +76,6 @@ This script tracks a player's body mechanics during a badminton swing to provide
 
 
 
-
-
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -93,11 +88,7 @@ This script tracks a player's body mechanics during a badminton swing to provide
 
 
 
-<br />
-    <br />
-    <br />
-  </p>
-</div>
+
 
 
 <!-- CONTACT -->
