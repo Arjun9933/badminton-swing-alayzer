@@ -43,6 +43,12 @@
 
 This script tracks a player's body mechanics during a badminton swing to provide instant feedback on their technique. It analyzes key biomechanical markers to determine if you are maximizing your power and reach.
 
+
+
+
+
+
+
 **Key Features:**
 *   **Handedness Support:** Works for both left-handed and right-handed players.
 *   **Contact Point Analysis:** Measures the angles of your wrist, elbow, and shoulder to ensure you are hitting the shuttlecock at the optimal height.
@@ -50,7 +56,7 @@ This script tracks a player's body mechanics during a badminton swing to provide
 *   **Body Rotation Check:** Tracks shoulder and hip widths to verify you are rotating your body fully through the shot.
 *   **Visual Feedback:** Maps a digital skeleton directly onto your video, highlighting key joints with red dots and blue lines.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Built With
 
@@ -59,7 +65,7 @@ This script tracks a player's body mechanics during a badminton swing to provide
 * [MediaPipe](https://developers.google.com/mediapipe)
 * [NumPy](https://numpy.org/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -81,7 +87,7 @@ This script tracks a player's body mechanics during a badminton swing to provide
    ```
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -107,5 +113,5 @@ Any questions/concerns/suggestions(very appreciated) contact: ---> arjunmaddali1
 
 Project Link: https://github.com/your_github_username/Badminton-Swing-Analyzer
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
