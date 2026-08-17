@@ -16,13 +16,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This script tracks a player's body mechanics during a badminton swing to provide instant feedback on their technique. It analyzes key biomechanical markers to determine if you are maximizing your power and reach.
+This script tracks a player's body mechanics during a badminton swing to provide instant feedback on their technique. It analyzes key body point markers to determine if you are maximizing your power and reach.
 
 <br />
     <br />
     <br />
   </p>
 </div>
+
+
+##  Why?
+
+After playing badminton for 7 years I see many players who without formal training who lack proper form. Formal training is not only incredibly expensive it's also a huge time commitment. I created this to help players keep their form in check without the help of a coach, the software emphasises proper contact points, rotation, and elbow positioning which is something I see many recreational players lack.
+
+
+
 
 
 **Key Features:**
